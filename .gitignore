@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/build/
+
+# Environment variables (secrets)
+.env
+
+# OS files
+.DS_Store
